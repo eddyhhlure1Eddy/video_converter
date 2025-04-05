@@ -2,4 +2,10 @@
 # tkinter>=8.6  # 通常与Python一起安装
 
 # 可选依赖项 - 增强拖放功能
-tkinterdnd2>=0.3.0  # 拖放支持库 
+tkinterdnd2>=0.3.0  # 拖放支持库
+
+# FFmpeg Python绑定
+ffmpeg-python>=0.2.0  # FFmpeg的Python绑定
+
+# UI和图标相关
+pillow>=9.0.0  # 用于创建应用图标和处理图像 
